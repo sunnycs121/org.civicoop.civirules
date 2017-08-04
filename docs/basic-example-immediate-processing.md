@@ -30,7 +30,7 @@ When I click on Add Condition I get a form where I can select a condition, like 
 
 <a href='../img/CiviRules_cookbook_print05.png'><img src='../img/CiviRules_cookbook_print05.png'/></a>
 
-In the list I will get  a list of all conditions that are in the extension. Some conditions will be shipped with the initial extension, but you as a developer you can add you own conditions.
+In the list I will get  a list of all conditions that are in the extension. Some conditions will be shipped with the initial extension, but you as a developer you can add your own conditions.
 
 In this example I want to check if the new contact is member of the group Regular Donors so I select the condition Contact (not) in group. When I click save I can select the group I want and if the contact should be a member of the group or not be a member of the group(s):
 
