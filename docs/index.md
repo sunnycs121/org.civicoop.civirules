@@ -21,7 +21,7 @@ __Conditions__ that determine the conditions to be compared when the trigger occ
 
 __Actions__ that specify what is to happen if the trigger occurs and the conditions are met. Each CiviRule can have one or more actions. This could be:
 
-- send an emai, SMS or PDF
+- send an email, SMS or PDF
 - add a contact to a group
 - add an activity to a contact
 - remove a tag from a contact
